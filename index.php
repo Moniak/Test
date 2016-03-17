@@ -1,0 +1,5 @@
+<?php
+
+ECHO "SALUT MOHAMADOU L'AS DES AS";
+
+?>
